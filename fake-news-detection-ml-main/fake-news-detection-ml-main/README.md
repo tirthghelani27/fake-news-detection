@@ -68,12 +68,3 @@ Open Jupyter Notebook or Google Colab.
 5. Model Training
 6. Evaluation
 7. Prediction
-
----
-
-## 👨‍💻 Author
-
-Kunj Darji
-
-GitHub:
-https://github.com/Kunj-Darji
